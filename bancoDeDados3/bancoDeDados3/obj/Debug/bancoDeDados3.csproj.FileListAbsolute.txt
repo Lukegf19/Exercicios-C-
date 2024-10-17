@@ -1,0 +1,7 @@
+C:\Users\Lucas Gavitti\source\repos\bancoDeDados3\bancoDeDados3\bin\Debug\bancoDeDados3.exe.config
+C:\Users\Lucas Gavitti\source\repos\bancoDeDados3\bancoDeDados3\bin\Debug\bancoDeDados3.exe
+C:\Users\Lucas Gavitti\source\repos\bancoDeDados3\bancoDeDados3\bin\Debug\bancoDeDados3.pdb
+C:\Users\Lucas Gavitti\source\repos\bancoDeDados3\bancoDeDados3\obj\Debug\bancoDeDados3.csproj.AssemblyReference.cache
+C:\Users\Lucas Gavitti\source\repos\bancoDeDados3\bancoDeDados3\obj\Debug\bancoDeDados3.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Gavitti\source\repos\bancoDeDados3\bancoDeDados3\obj\Debug\bancoDeDados3.exe
+C:\Users\Lucas Gavitti\source\repos\bancoDeDados3\bancoDeDados3\obj\Debug\bancoDeDados3.pdb

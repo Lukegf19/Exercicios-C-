@@ -1,0 +1,7 @@
+C:\Users\Lucas Gavitti\source\repos\BancoDeDados4\BancoDeDados4\bin\Debug\BancoDeDados4.exe.config
+C:\Users\Lucas Gavitti\source\repos\BancoDeDados4\BancoDeDados4\bin\Debug\BancoDeDados4.exe
+C:\Users\Lucas Gavitti\source\repos\BancoDeDados4\BancoDeDados4\bin\Debug\BancoDeDados4.pdb
+C:\Users\Lucas Gavitti\source\repos\BancoDeDados4\BancoDeDados4\obj\Debug\BancoDeDados4.csproj.AssemblyReference.cache
+C:\Users\Lucas Gavitti\source\repos\BancoDeDados4\BancoDeDados4\obj\Debug\BancoDeDados4.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Gavitti\source\repos\BancoDeDados4\BancoDeDados4\obj\Debug\BancoDeDados4.exe
+C:\Users\Lucas Gavitti\source\repos\BancoDeDados4\BancoDeDados4\obj\Debug\BancoDeDados4.pdb

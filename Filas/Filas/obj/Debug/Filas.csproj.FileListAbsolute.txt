@@ -1,0 +1,7 @@
+C:\Users\Lucas Gavitti\source\repos\Filas\Filas\bin\Debug\Filas.exe.config
+C:\Users\Lucas Gavitti\source\repos\Filas\Filas\bin\Debug\Filas.exe
+C:\Users\Lucas Gavitti\source\repos\Filas\Filas\bin\Debug\Filas.pdb
+C:\Users\Lucas Gavitti\source\repos\Filas\Filas\obj\Debug\Filas.csproj.AssemblyReference.cache
+C:\Users\Lucas Gavitti\source\repos\Filas\Filas\obj\Debug\Filas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Gavitti\source\repos\Filas\Filas\obj\Debug\Filas.exe
+C:\Users\Lucas Gavitti\source\repos\Filas\Filas\obj\Debug\Filas.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lucas Gavitti\source\repos\GerenciamentoBiblioteca\GerenciamentoBiblioteca\bin\Debug\GerenciamentoBiblioteca.exe.config
+C:\Users\Lucas Gavitti\source\repos\GerenciamentoBiblioteca\GerenciamentoBiblioteca\bin\Debug\GerenciamentoBiblioteca.exe
+C:\Users\Lucas Gavitti\source\repos\GerenciamentoBiblioteca\GerenciamentoBiblioteca\bin\Debug\GerenciamentoBiblioteca.pdb
+C:\Users\Lucas Gavitti\source\repos\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\GerenciamentoBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Lucas Gavitti\source\repos\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\GerenciamentoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Gavitti\source\repos\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\GerenciamentoBiblioteca.exe
+C:\Users\Lucas Gavitti\source\repos\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\GerenciamentoBiblioteca.pdb

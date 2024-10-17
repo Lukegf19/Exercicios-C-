@@ -1,0 +1,7 @@
+C:\Users\Lucas Gavitti\source\repos\BancoDeDados2\BancoDeDados2\bin\Debug\BancoDeDados2.exe.config
+C:\Users\Lucas Gavitti\source\repos\BancoDeDados2\BancoDeDados2\bin\Debug\BancoDeDados2.exe
+C:\Users\Lucas Gavitti\source\repos\BancoDeDados2\BancoDeDados2\bin\Debug\BancoDeDados2.pdb
+C:\Users\Lucas Gavitti\source\repos\BancoDeDados2\BancoDeDados2\obj\Debug\BancoDeDados2.csproj.AssemblyReference.cache
+C:\Users\Lucas Gavitti\source\repos\BancoDeDados2\BancoDeDados2\obj\Debug\BancoDeDados2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Gavitti\source\repos\BancoDeDados2\BancoDeDados2\obj\Debug\BancoDeDados2.exe
+C:\Users\Lucas Gavitti\source\repos\BancoDeDados2\BancoDeDados2\obj\Debug\BancoDeDados2.pdb
